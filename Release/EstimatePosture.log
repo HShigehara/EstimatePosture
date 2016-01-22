@@ -1,0 +1,20 @@
+﻿2014/04/01 17:06:19 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\chill_000\SkyDrive\Labo\Programming\KINECTforWindowsSDK\EstimatePosture\EstimatePosture\EstimatePosture.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft SDKs\Kinect\v1.8\inc" /IC:\OpenCV2.4.7\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt KinectFunc.cpp
+         KinectFunc.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\chill_000\SkyDrive\Labo\Programming\KINECTforWindowsSDK\EstimatePosture\Release\EstimatePosture.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files\Microsoft SDKs\Kinect\v1.8\lib\x86" /LIBPATH:C:\OpenCV2.4.7\build\x86\vc11\lib opencv_core247.lib opencv_imgproc247.lib opencv_highgui247.lib Kinect10.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\chill_000\SkyDrive\Labo\Programming\KINECTforWindowsSDK\EstimatePosture\Release\EstimatePosture.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\chill_000\SkyDrive\Labo\Programming\KINECTforWindowsSDK\EstimatePosture\Release\EstimatePosture.lib" /MACHINE:X86 /SAFESEH Release\CoordinateTransformFunc.obj
+         Release\EstimatePostureFunc.obj
+         Release\KinectFunc.obj
+         Release\main.obj
+         Release\Mouse.obj
+         Release\PlotFunc.obj
+         コード生成しています。
+         コード生成が終了しました。
+         EstimatePosture.vcxproj -> C:\Users\chill_000\SkyDrive\Labo\Programming\KINECTforWindowsSDK\EstimatePosture\Release\EstimatePosture.exe
+     1>プロジェクト "C:\Users\chill_000\SkyDrive\Labo\Programming\KINECTforWindowsSDK\EstimatePosture\EstimatePosture\EstimatePosture.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.57
